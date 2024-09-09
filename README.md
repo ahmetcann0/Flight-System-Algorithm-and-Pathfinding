@@ -18,6 +18,3 @@ This Java project implements graph algorithms for optimizing flight system route
 
 For detailed insights into the project's design and implementation, view the full report [here](project_report.pdf).
 
-## License
-
-Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
